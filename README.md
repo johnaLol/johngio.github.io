@@ -1,4 +1,4 @@
-# johngio.github.io
+# johnaLol.github.io
 
 This is a personal website that will display all that my mind has to offer---whether that's some creative writings, my Course 6 pset work and analysis from MIT, or development of my game Truthdancer.
 
